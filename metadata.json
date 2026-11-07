@@ -1,0 +1,8 @@
+{
+  "name": "Wardrop Studio",
+  "description": "A high-end 'Darkroom Chic' AI photo editor featuring semantic relighting, generative backdrop synthesis, physics-aware virtual try-on, and virtual lens reconstruction.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
